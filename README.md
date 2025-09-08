@@ -86,9 +86,8 @@ To write an assembly language program in 8086 to generate Sawtooth and Square wa
 ---
 
 ## Model Graph
-![2](https://github.com/user-attachments/assets/f0cf474b-e505-4620-9853-6e1d5d57cf69)
+![MPMC exp 2graph](https://github.com/user-attachments/assets/0eb66785-5524-4961-a14c-0a575f9ab501)
 
-![1](https://github.com/user-attachments/assets/a78b39a1-0297-4de4-a3f7-cea54f2fb797)
 
 
 
